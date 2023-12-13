@@ -15,12 +15,7 @@ Ensure that your AWS CLI is configured with the appropriate credentials and defa
 
 ## Usage
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/eks-terraform.git
-    cd eks-terraform
-    ```
+1. Clone the repository
 
 2. Initialize Terraform:
 
